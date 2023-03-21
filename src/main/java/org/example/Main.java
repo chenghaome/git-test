@@ -11,7 +11,6 @@ public class Main {
         System.out.println("Hello 你干嘛~~~!");
         System.out.println("Hello jige~~~!");
         System.out.println("Hello 你好m哥~~~!");
-
-
+        System.out.println("Hello nihao f哥~~~!");
     }
 }
